@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squarer", "Squarer\Squarer.csproj", "{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquarerTests", "SquarerTests\SquarerTests.csproj", "{626DE7BB-7A4D-4580-A006-64F186ABB78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626DE7BB-7A4D-4580-A006-64F186ABB78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626DE7BB-7A4D-4580-A006-64F186ABB78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626DE7BB-7A4D-4580-A006-64F186ABB78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626DE7BB-7A4D-4580-A006-64F186ABB78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC4A22C-2DD7-415F-89DD-2926BF08ECD8}
+	EndGlobalSection
+EndGlobal
