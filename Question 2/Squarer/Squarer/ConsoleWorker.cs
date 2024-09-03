@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Squarer
 {
-    public class ConsoleWorker
+    public class ConsoleWorker //Класс для работы с консолью
     {
         Figure Figure;
         int s1;
@@ -14,7 +14,7 @@ namespace Squarer
         int s3;
         int radius;
 
-        public void TriangleSquare()
+        public void TriangleSquare() //Метод подсчета площади треугольника
         {
             Console.WriteLine("Введите стороны треугольника...");
             s1 = Convert.ToInt32(Console.ReadLine());
@@ -26,7 +26,7 @@ namespace Squarer
             Figure = null;
             PrintMenu();
         }
-        public void CircleSquare() 
+        public void CircleSquare() //Метод подсчета площади круга
         {
             Console.WriteLine("Введите радиус круга...");
             radius = Convert.ToInt32(Console.ReadLine());
@@ -36,7 +36,7 @@ namespace Squarer
             Figure = null;
             PrintMenu();
         }
-        public void PrintMenu()
+        public void PrintMenu() //Метод, отображающий функционал библиотеки 
         {
             Console.WriteLine("Площадь какой фигуры посчитать:\n1 - Треугольник\n2 - Круг");
             var t = Convert.ToInt32(Console.ReadLine());

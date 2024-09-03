@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bosss\\Downloads\\Squarer\\Squarer\\Squarer.csproj": {}
+    "C:\\Users\\bosss\\OneDrive\\Документы\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Squarer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bosss\\Downloads\\Squarer\\Squarer\\Squarer.csproj": {
+    "C:\\Users\\bosss\\OneDrive\\Документы\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Squarer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bosss\\Downloads\\Squarer\\Squarer\\Squarer.csproj",
+        "projectUniqueName": "C:\\Users\\bosss\\OneDrive\\Документы\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Squarer.csproj",
         "projectName": "Squarer",
-        "projectPath": "C:\\Users\\bosss\\Downloads\\Squarer\\Squarer\\Squarer.csproj",
+        "projectPath": "C:\\Users\\bosss\\OneDrive\\Документы\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Squarer.csproj",
         "packagesPath": "C:\\Users\\bosss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bosss\\Downloads\\Squarer\\Squarer\\obj\\",
+        "outputPath": "C:\\Users\\bosss\\OneDrive\\Документы\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bosss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

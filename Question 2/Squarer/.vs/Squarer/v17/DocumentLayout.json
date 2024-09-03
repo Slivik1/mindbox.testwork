@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\",
+  "WorkspaceRootPath": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\squarer\\squarer\\squarer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|solutionrelative:squarer\\squarer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\squarer\\squarer\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\squarer\\squarer\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|solutionrelative:squarer\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\squarer\\squarer\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\squarer\\squarer\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|solutionrelative:squarer\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626DE7BB-7A4D-4580-A006-64F186ABB78B}|SquarerTests\\SquarerTests.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\squarer\\squarertests\\figuretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\squarer\\squarer\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|solutionrelative:squarer\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626DE7BB-7A4D-4580-A006-64F186ABB78B}|SquarerTests\\SquarerTests.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\squarer\\squarertests\\figuretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{626DE7BB-7A4D-4580-A006-64F186ABB78B}|SquarerTests\\SquarerTests.csproj|solutionrelative:squarertests\\figuretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\squarer\\squarer\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|solutionrelative:squarer\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\squarer\\squarer\\squarer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BD01DA46-88EF-41A2-990F-23BD8A1C8D85}|Squarer\\Squarer.csproj|solutionrelative:squarer\\squarer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Squarer",
-              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Squarer.csproj",
+              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Squarer.csproj",
               "RelativeDocumentMoniker": "Squarer\\Squarer.csproj",
-              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Squarer.csproj",
+              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Squarer.csproj",
               "RelativeToolTip": "Squarer\\Squarer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-25T11:07:06.912Z",
@@ -48,49 +48,53 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FigureTests.cs",
-              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\SquarerTests\\FigureTests.cs",
+              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\SquarerTests\\FigureTests.cs",
               "RelativeDocumentMoniker": "SquarerTests\\FigureTests.cs",
-              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\SquarerTests\\FigureTests.cs",
+              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\SquarerTests\\FigureTests.cs",
               "RelativeToolTip": "SquarerTests\\FigureTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABtAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:42:37.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Triangle.cs",
-              "RelativeDocumentMoniker": "Squarer\\Triangle.cs",
-              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Triangle.cs",
-              "RelativeToolTip": "Squarer\\Triangle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAACrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:59:24.796Z"
+              "WhenOpened": "2024-07-25T08:42:37.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Circle.cs",
-              "RelativeDocumentMoniker": "Squarer\\Circle.cs",
-              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Circle.cs",
-              "RelativeToolTip": "Squarer\\Circle.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA4AAAAnAAAA",
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Triangle.cs",
+              "RelativeDocumentMoniker": "Squarer\\Triangle.cs",
+              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Triangle.cs",
+              "RelativeToolTip": "Squarer\\Triangle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:26:16.969Z"
+              "WhenOpened": "2024-07-25T08:59:24.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Figure.cs",
-              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Figure.cs",
-              "RelativeDocumentMoniker": "Squarer\\Figure.cs",
-              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Squarer\\Squarer\\Figure.cs",
-              "RelativeToolTip": "Squarer\\Figure.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB4AAAA",
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Circle.cs",
+              "RelativeDocumentMoniker": "Squarer\\Circle.cs",
+              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Circle.cs",
+              "RelativeToolTip": "Squarer\\Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T08:21:15.044Z"
+              "WhenOpened": "2024-07-25T08:26:16.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Figure.cs",
+              "RelativeDocumentMoniker": "Squarer\\Figure.cs",
+              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\Figure.cs",
+              "RelativeToolTip": "Squarer\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:21:15.044Z",
+              "EditorCaption": ""
             }
           ]
         }

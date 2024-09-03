@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NyEMnEIINGU=",
+  "dgSpecHash": "UstD+Vj9jxY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bosss\\Downloads\\Squarer\\SquarerTests\\SquarerTests.csproj",
+  "projectFilePath": "C:\\Users\\bosss\\OneDrive\\Документы\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\SquarerTests\\SquarerTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bosss\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\bosss\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
