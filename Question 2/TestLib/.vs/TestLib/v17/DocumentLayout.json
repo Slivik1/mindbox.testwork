@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\TestLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1BFF5FE-7DF8-43D0-AF2A-226B62F3E39C}|..\\Squarer\\Squarer\\Squarer.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\squarer\\squarer\\consoleworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00534594-C327-430A-913C-5EDEDAB057BF}|TestLib\\TestLib.csproj|c:\\users\\bosss\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\mindbox.testwork\\question 2\\testlib\\testlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00534594-C327-430A-913C-5EDEDAB057BF}|TestLib\\TestLib.csproj|solutionrelative:testlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,20 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsoleWorker.cs",
-              "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\ConsoleWorker.cs",
-              "RelativeDocumentMoniker": "..\\Squarer\\Squarer\\ConsoleWorker.cs",
-              "ToolTip": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\Squarer\\Squarer\\ConsoleWorker.cs",
-              "RelativeToolTip": "..\\Squarer\\Squarer\\ConsoleWorker.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:41:27.533Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bosss\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\mindbox.testwork\\Question 2\\TestLib\\TestLib\\Program.cs",
               "RelativeDocumentMoniker": "TestLib\\Program.cs",
