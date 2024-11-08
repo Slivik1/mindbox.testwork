@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Squarer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7a2addbb80c7db45cd3f87e794e18f03df5e81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd4cd47f9411a7099ddc73ac83697d8d582e30d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Squarer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Squarer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
